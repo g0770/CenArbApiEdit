@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-26ml5f$8wxw)pik&w6&^!oqb05+-bfz#zo@if8#azxfd4c=avb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '10.0.2.2', 'f917-181-92-228-111.ngrok-free.app']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '10.0.2.2', 'f917-181-92-228-111.ngrok-free.app', 'cenarbapi.onrender.com']
 
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True  # Permitir credenciales en solicitudes CORS
